@@ -1,4 +1,5 @@
 # encriptador-de-texto-challenge.github.io
+![image](https://user-images.githubusercontent.com/102260190/183233026-78112b39-551e-4d44-80f2-67584e376aa7.png)
 
 https://bagse.github.io/encriptador-de-texto-challenge.github.io/
 
